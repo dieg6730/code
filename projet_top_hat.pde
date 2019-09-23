@@ -1,4 +1,4 @@
-
+//hello my gooood friend
  char  c;
 float y;
 float x; 
